@@ -1,16 +1,50 @@
-### Hi there 👋
+<h1 align="center">Welcome to my profile! 👋</h1><br>
 
-<!--
-**molnarmark/molnarmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+My name is Mark. I'm a self-employed programmer from Hungary. 🇭🇺<br>
+I'm passionate about <b>Open Source</b> and discovering new <b>Programming Languages</b>.<br><br>
+<i>I'm also learning about compilers and functional programming.</i><br>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">Daily, I use:</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/-Elementary%20OS-black?style=flat-rounded&logo=elementary"/>
+<img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-rounded&logo=typescript"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-rounded&logo=git"/>
+<img src="https://img.shields.io/badge/-GitLab-orange?style=flat-rounded&logo=gitlab"/>
+<img src="https://img.shields.io/badge/-Node-green?style=flat-rounded&logo=node.js"/>
+<img src="https://img.shields.io/badge/-yarn-lightblue?style=flat-rounded&logo=yarn"/>
+<img src="https://img.shields.io/badge/-Fish%20Shell-red?style=flat-rounded&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAHtQTFRFAAAA/////////////////v7+/////////v7+/////////v7+////////////////////////2NjYzc3N////////////////////////////9PT08fHx/////v7+////////////////////////////////////////rxybfQAAACl0Uk5TAJvMxmYEMsXMyoEFPPT/7Elw///vd6P7sCzo//8XD6T8tU6ms3HudjO6M7wGAAAAXElEQVR4nJWNRw6AQAzEwtLb0HtbOv9/IdEKxBnfrIxioj9oQjdMyxbCcT2fKAgRxQmANMsLPpcV6qYFuh7tQDROkPMCxcy6Qm6fvmOGx+rVruw4n9DFIaFCf7gBx6sG5Fd5iDkAAAAASUVORK5CYII="/>
+<img src="https://img.shields.io/badge/-Sublime%20Text%203-black?style=flat-rounded&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAALFQTFRFAAAA/681/6w2/6s2/6s2/6w2/6s2/6s2/6s2/6s2/642/6w2/6s2/6s2/6s2/6s2/6s2/6s2/6s2/6s2/6s2/603/ao2/6s2/6w2/641/6s2/6s2/6w2/qw2/6s2/6s2/6s2/qs29qU1/ao2/6w2/6s2/6s28KEz35Yv4pgw96Y1/6s29qU05psx4Zgw6p0y/6s2/6s2/6s26J0y/6s2/6s2/6s2/6s2/q02/6s2/6w2Gw5i1gAAADt0Uk5TAAEwd74LM73s/wJHod385+/+5a5cB/JqGQHbhjEugtcXWtP/H4HJ9P///8z////78siDHdygWh8CWRR3ufuBAAAAc0lEQVR4nGNggAJGJmYWGJuVjZmdg5MTzObi5uHl4wQBMJefEwoEwFwwU1BIWEQUwRUTl5BkQHA5OaWkZcBcWTl5qAjUHgVFJWUEV0VVTV1DUwvK1RYEyejo6ukjGWVgaGQM5fKZmJqZW0ANEuKxtII5HgC7swjoiG1GPAAAAABJRU5ErkJggg=="/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">In my free time, I use:</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-rounded&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Crystal-white?style=flat-rounded&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAPlQTFRFAAAAHh4eCwsLDg4OFRUVLi4ulZWVBQUFAAAAAQEBBQUFCwsLERERHx8fPj4+IyMjAgICAQEBIyMjJCQkBQUFGhoaUVFRFRUVDQ0NHx8fHh4eVlZWmpqa09PT/f398vLyBQUFBwcHRUVFU1NT3Nzc+/v7////vr6+AwMDJSUlERERbm5u/v7+fn5+FxcXFhYWcHBw9PT0QUFBDg4OJycnBAQE+vr60dHRBwcHBgYGUFBQCAgIcnJyk5OTAAAABQUFDg4OAgICFBQUBAQECwsLIyMjBAQEi4uLHBwcDQ0NBQUFBAQEgYGBKysrHBwcCgoKBAQEBAQEDAwMaCLGTgAAAFN0Uk5TAGXfrWgvAu3//uy+hkMHV/r/YFf0////qGX6////////4QzP//////ksn////2di////oyj5////2gnb///8h6f//50EWIoFZ8bumAMZTcjpiAljR+vMAAAAlklEQVR4nDXOVRLCQBAE0A46QJDgTrBFg7u7+/0PQ5YN/TWvqqeqAT2SyWyx2mBEshM5nC7Z7eHy+khE8esKBIlC4Qh2FIjFE8lUOqNyZnPIF4qMsdKvXa6gWqvr1MR3A01qMdbuCHbR65M2GI4Ex5hMSZ3NhRZLYEW03ghud8Ce/jnwUcfT+aLw5tXYfLs/5Ofr/dHPL3TmES90D3JBAAAAAElFTkSuQmCC"/>
+<img src="https://img.shields.io/badge/-Gleam-pink?style=flat-rounded&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAAXNSR0IB2cksfwAAAKhQTFRFAAAAKCgoJycnKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoJycnKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoJycnKCgoKCgoKCgoKCgoKCgoKCgoJycnKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgooLJ26QAAADh0Uk5TACMDhQUrBK5foRSfO8NMAWtxE62NDLEqD4EwF1hkZ2x7cgJVf2paQ6ZhJOQ1sJJEtC0Lcw2DGg4iS42FAAAAc0lEQVR4nGNggABGJgZkwMwCoVnBJBs7VJiDkwuklhumjIeXj59BQBCuTUhYRFRMHGGMhCSjlLSMrJy8giKYr8TGoMytoqqmzgjmqmtoIluqpS2AxNPR1UMYzKBvYGikywbjcRibMDCYmsG4JiDCXBTCAQATVgblb5OK6QAAAABJRU5ErkJggg=="/>
+<img src="https://img.shields.io/badge/-GitHub-grey?style=flat-rounded&logo=github"/>
+<img src="https://img.shields.io/badge/-Vultr-blue?style=flat-rounded&logo=vultr"/>
+<img src="https://img.shields.io/badge/-npm-darkred?style=flat-rounded&logo=npm"/>
+</p>
+
+<h2 align="center">Technologies I worked with in the past:</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-darkblue?style=flat-rounded&logo=react"/>
+  <img src="https://img.shields.io/badge/-Vue-black?style=flat-rounded&logo=vue.js"/>
+  <img src="https://img.shields.io/badge/-Go-white?style=flat-rounded&logo=go"/>
+  <img src="https://img.shields.io/badge/-Python-lightblue?style=flat-rounded&logo=python"/>
+  <img src="https://img.shields.io/badge/-Lua-darkblue?style=flat-rounded&logo=lua"/>
+  <img src="https://img.shields.io/badge/-Nim-black?style=flat-rounded&logo=nim"/>
+  <img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat-rounded&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-PHP-black?style=flat-rounded&logo=php"/>
+  <img src="https://img.shields.io/badge/-MongoDB-darkgreen?style=flat-rounded&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/-HTML5-darkred?style=flat-rounded&logo=html5"/>
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-rounded&logo=css3"/>
+</p>
+
+<h2 align="center">My Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=molnarmark&show_icons=true&title_color=fff&icon_color=3f3c3e&text_color=ffffff&bg_color=0d1011"><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=molnarmark.molnarmark">
+</p>
