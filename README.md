@@ -9,7 +9,7 @@ I'm passionate about <b>Open Source</b> and discovering new <b>Programming Langu
 <h2 align="center">Daily, I use:</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-Elementary%20OS-black?style=flat-rounded&logo=elementary"/>
-<img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-rounded&logo=typescript"/>
+<img src="https://img.shields.io/badge/-TypeScript-lightcyan?style=flat-rounded&logo=typescript"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-rounded&logo=git"/>
 <img src="https://img.shields.io/badge/-GitLab-orange?style=flat-rounded&logo=gitlab"/>
 <img src="https://img.shields.io/badge/-Node-green?style=flat-rounded&logo=node.js"/>
