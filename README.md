@@ -3,7 +3,6 @@
 <p align="center">
 My name is Mark. I'm a self-employed programmer from Hungary.<br>
 I'm passionate about <b>Open Source</b> and discovering new <b>Programming Languages</b>.<br><br>
-<i>I'm also learning about compilers and functional programming.</i><br>
 </p>
 
 <h2 align="center">Daily, I use:</h2>
