@@ -14,7 +14,7 @@ I'm passionate about <b>Open Source</b> and discovering new <b>Programming Langu
 <img src="https://img.shields.io/badge/-macOS-black?style=flat-rounded&logo=Apple"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-rounded&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-rounded&logo=git"/>
-<img src="https://img.shields.io/badge/-Node-green?style=flat-rounded&logo=node.js"/>
+<img src="https://img.shields.io/badge/-Node-green?style=flat-rounded&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-rounded&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Insomnia-black?style=flat-rounded&logo=insomnia&logoColor=5849BE"/>
 <img src="https://img.shields.io/badge/-Svelte-darkred?style=flat-rounded&logo=svelte"/>
