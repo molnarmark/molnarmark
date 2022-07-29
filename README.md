@@ -30,7 +30,7 @@ I'm passionate about <b>Open Source</b> and discovering new <b>Programming Langu
 <p align="center">
   <img src="https://img.shields.io/badge/-React-darkblue?style=flat-rounded&logo=react"/>
   <img src="https://img.shields.io/badge/-Vue-black?style=flat-rounded&logo=vue.js"/>
-  <img src="https://img.shields.io/badge/-Go-white?style=flat-rounded&logo=go"/>
+  <img src="https://img.shields.io/badge/-Go-blue?style=flat-rounded&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-lightblue?style=flat-rounded&logo=python"/>
   <img src="https://img.shields.io/badge/-Lua-darkblue?style=flat-rounded&logo=lua"/>
   <img src="https://img.shields.io/badge/-Nim-black?style=flat-rounded&logo=nim"/>
