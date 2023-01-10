@@ -46,5 +46,6 @@ I'm passionate about <b>Open Source</b> and discovering new <b>Programming Langu
 
 <h2 align="center">My Stats</h2>
 <p align="center">
-  <img src="https://stats.mrk.fyi/api/?username=molnarmark&show_icons=true&title_color=fff&icon_color=3f3c3e&text_color=ffffff&bg_color=0d1011"><br>
+  <img src="https://wakatime.com/badge/user/b2686a39-6b00-458e-9d58-46d2abbbdf6a.svg"><br>
+  <img src="https://stats.mrk.fyi/api/?username=molnarmark&show_icons=true&title_color=fff&icon_color=3f3c3e&text_color=ffffff&bg_color=07090a"><br>
 </p>
