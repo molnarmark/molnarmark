@@ -46,5 +46,5 @@ I'm passionate about <b>Open Source</b> and discovering new <b>Programming Langu
 
 <h2 align="center">My Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=molnarmark&show_icons=true&title_color=fff&icon_color=3f3c3e&text_color=ffffff&bg_color=0d1011"><br>
+  <img src="https://stats.mrk.fyi/api/?username=molnarmark&show_icons=true&title_color=fff&icon_color=3f3c3e&text_color=ffffff&bg_color=0d1011"><br>
 </p>
