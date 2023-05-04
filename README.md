@@ -46,7 +46,5 @@ I'm passionate about <b>Open Source</b> and discovering new <b>Programming Langu
 
 <h2 align="center">My Stats</h2>
 <p align="center">
-  <img src="https://stats.mrk.fyi/api/?username=molnarmark&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=molnarmark&theme=highcontrast&hide_border=true&border_radius=5"/></a>
-  
+  <img src="https://github-readme-stats.vercel.app/api/?username=molnarmark&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true">  
 </p>
