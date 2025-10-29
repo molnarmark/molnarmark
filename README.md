@@ -8,7 +8,7 @@
 <h4 align="center">Editor of choice:</h4>
 <p align="center">
   <img
-    src="https://img.shields.io/badge/-Zed-black?style=flat-rounded&logo=zedindustries"
+    src="https://img.shields.io/badge/-Zed-black?style=flat-rounded&logo=zedindustries&labelColor=black&color=white"
   />
 </p>
 
